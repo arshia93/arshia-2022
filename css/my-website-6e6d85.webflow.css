@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-  display: block;
+  display: inline-block;
   margin-top: 20px;
   margin-bottom: 15px;
   margin-left: 40px;
@@ -78,7 +78,6 @@ p {
 }
 
 a {
-  display: block;
   -webkit-transition: opacity 200ms ease;
   transition: opacity 200ms ease;
   color: #fff;
